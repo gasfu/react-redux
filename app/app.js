@@ -3,17 +3,22 @@ import ReactDOM from 'react-dom';
 
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 
-import { Provider } from 'redux';
 
 import Layout from './components/layout.jsx';
 import Home from './scenes/home/home.jsx';
 
-import Store from './store/store.js';
+import { Provider } from 'react-redux';
+import { createStore, combineReducers } from 'redux';
 
 
+//Reducer
+import teamsReducer from './store/reducers/teams-reducer';
+
+//Store
+const store  = createStore(teamsReducer);
 
 ReactDOM.render(
-	<Provider store={Store}>
+	<Provider store={store}>
 		<Router history={browserHistory}>
 		    <Route path='/' component={Layout}>
 		    	<IndexRoute component={Home} />
