@@ -1,0 +1,163 @@
+{
+  "teams": [
+    {
+      "name": "Atlético Clube Goianiense",
+      "state": "Goiás",
+      "foudation_date": 1937,
+      "stadium": "",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/atlego.png" 
+    },
+    
+    {
+      "name": "Clube Atlético Mineiro",
+      "state": "Minas Gerais",
+      "foudation_date": 1908,
+      "stadium": "Estádio Independência",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/atletico.png" 
+    },
+    
+    {
+      "name": "Clube Atlético Paranaense",
+      "state": "Paraná",
+      "foudation_date": 1924,
+      "stadium": "Arena da Baixada",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/atlpr.png" 
+    },
+    
+    {
+      "name": "Avaí Futebol Clube",
+      "state": "Santa Catarina",
+      "foudation_date": 1923,
+      "stadium": "Ressacada",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/avai.gif" 
+    },
+    
+    {
+      "name": "Esporte Clube Bahia",
+      "state": "Bahia",
+      "foudation_date": 1931,
+      "stadium": "Arena Fonte Nova",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/bahia.png" 
+    },
+    
+    {
+      "name": "Botafogo de Futebol e Regatas",
+      "state": "Rio de Janeiro",
+      "foudation_date": 1942,
+      "stadium": "Estádio Olímpico",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/botafogo.gif" 
+    },
+    
+    {
+      "name": "Associação Chapecoense de Futebol",
+      "state": "Santa Catarina",
+      "foudation_date": 1973,
+      "stadium": "Arena Condá",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/chapeco.png" 
+    },
+    
+    {
+      "name": "Sport Club Corinthians Paulista",
+      "state": "São Paulo",
+      "foudation_date": 1910,
+      "stadium": "Arena Corinthians",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/corinthians.png" 
+    },
+    
+    {
+      "name": "Coritiba Foot Ball Club",
+      "state": "Paraná",
+      "foudation_date": 1909,
+      "stadium": "Estádio Major Antônio Couto Pereira",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/coritiba.png" 
+    },
+    
+    {
+      "name": "Cruzeiro Esporte Clube",
+      "state": "Minas Gerais",
+      "foudation_date": 1921,
+      "stadium": "Mineirão",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/cruzeiro.png" 
+    },
+    
+    {
+      "name": "Clube de Regatas do Flamengo",
+      "state": "Rio de Janeiro",
+      "foudation_date": 1895,
+      "stadium": "Estádio Maracanã",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/fla.png" 
+    },
+    
+    {
+      "name": "Fluminense Football Club",
+      "state": "Rio de Janeiro",
+      "foudation_date": 1902,
+      "stadium": "Estádio Maracanã",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/fluminense.png" 
+    },
+    
+    {
+      "name": "Grêmio Foot-Ball Porto Alegrense",
+      "state": "Rio Grande do Sul",
+      "foudation_date": 1903,
+      "stadium": "Arena do Grêmio",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/gremio.png" 
+    },
+    
+    {
+      "name": "Sociedade Esportiva Palmeiras",
+      "state": "São Paulo",
+      "foudation_date": 1914,
+      "stadium": "Allianz Parque",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/palmeiras.png" 
+    },
+    
+    {
+      "name": "Associação Atlética Ponte Preta",
+      "state": "São Paulo",
+      "foudation_date": 1900,
+      "stadium": "Estádio Moisés Lucarelli",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/pontepreta.gif" 
+    },
+    
+    {
+      "name": "Santos Futebol Clube",
+      "state": "São Paulo",
+      "foudation_date": 1912,
+      "stadium": "Estádio Urbano Caldeira",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/santos.png" 
+    },
+    
+    {
+      "name": "São Paulo Futebol Clube",
+      "state": "São Paulo",
+      "foudation_date": 1930,
+      "stadium": "Estádio do Morumbi",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/saopaulo.png" 
+    },
+    
+    {
+      "name": "Sport Club do Recife",
+      "state": "Pernambuco",
+      "foudation_date": 1905,
+      "stadium": "Estádio Adelmar da Costa Carvalho",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/sport.gif" 
+    },
+    
+    {
+      "name": "Club de Regatas Vasco da Gama",
+      "state": "Rio de Janeiro",
+      "foudation_date": 1898,
+      "stadium": "Estádio Vasco da Gama",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/vasco.png" 
+    },
+    
+    {
+      "name": "Esporte Clube Vitória",
+      "state": "Bahia",
+      "foudation_date": 1899,
+      "stadium": "Barradão",
+      "coat_of_arms": "http://www.escudosfc.com.br/images/vitoria.png" 
+    }
+  ]
+}
