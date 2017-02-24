@@ -21,7 +21,7 @@ ReactDOM.render(
 	<Provider store={store}>
 		<Router history={browserHistory}>
 		    <Route path='/' component={Layout}>
-		    	<IndexRoute component={Home} />
+		    	<IndexRoute component={Home}/>
 		    </Route>
 	  	</Router>
   	</Provider>,
